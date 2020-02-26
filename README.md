@@ -272,6 +272,7 @@ For documentation on the latest development code see the [documentation index][d
 * [snmp](./plugins/inputs/snmp)
 * [socket_listener](./plugins/inputs/socket_listener)
 * [solr](./plugins/inputs/solr)
+* [sql](./plugins/outputs/sql) (sql generic output)
 * [sql server](./plugins/inputs/sqlserver) (microsoft)
 * [stackdriver](./plugins/inputs/stackdriver)
 * [statsd](./plugins/inputs/statsd)
